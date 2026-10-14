@@ -1,6 +1,6 @@
 // Service worker: guarda os arquivos para o app abrir offline e atualiza em segundo plano.
 // Ao mudar algum arquivo do app, aumente o número da versão abaixo.
-const CACHE = 'calorias-v2';
+const CACHE = 'calorias-v3';
 const ASSETS = ['./', './index.html', './foods.js', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
